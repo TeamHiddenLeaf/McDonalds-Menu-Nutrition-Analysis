@@ -1,6 +1,6 @@
 # McDonalds-Menu-Nutrition-Analysis
 
-## Data Engineering MidTerm Surprise Mini Group Project (The University of Chicago, Physical Sciences Division)
+## Data Engineering Mini Group Project (The University of Chicago, Physical Sciences Division)
 
 ## Tools Used - Python, Pandas, Matplotlib, Seaborn
 
