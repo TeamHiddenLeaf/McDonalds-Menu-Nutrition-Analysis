@@ -9,4 +9,5 @@
 ## Project Instructions
 
 - How many calories does the average McDonald's value meal contain? How much do beverages, like soda or coffee, contribute to the overall caloric intake? Does ordered grilled chicken instead of crispy increase a sandwich's nutritional value? What about ordering egg whites instead of whole eggs? What is the least number of items could you order from the menu to meet one day's nutritional requirements?
-- The project has to be completed within 120 mins
+- The project has to be completed within 24 hours
+- No plagiarism or copying the code from the other teamamates
