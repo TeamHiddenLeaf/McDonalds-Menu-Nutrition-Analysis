@@ -1,5 +1,7 @@
 # McDonalds-Menu-Nutrition-Analysis
 
+![unnamed](https://user-images.githubusercontent.com/66754032/113646361-4d188480-964e-11eb-86ac-dbfc7242754c.png)
+
 ## Data Engineering Mini Group Project (The University of Chicago, Physical Sciences Division)
 
 ## Tools Used - Python, Pandas, Matplotlib, Seaborn
